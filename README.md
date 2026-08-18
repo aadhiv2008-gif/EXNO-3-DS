@@ -199,6 +199,6 @@ plt.show()
 <img width="565" height="432" alt="download" src="https://github.com/user-attachments/assets/58764964-9d88-4b51-aa53-bf63035654ad" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+  Thus the Feature Encoding and Transformation process has been done for the given data.
 
        
